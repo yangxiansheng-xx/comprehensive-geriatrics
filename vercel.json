@@ -1,0 +1,8 @@
+{
+  "name": "comprehensive-geriatrics",
+  "version": 2,
+  "public": true,
+  "github": {
+    "enabled": false
+  }
+}
